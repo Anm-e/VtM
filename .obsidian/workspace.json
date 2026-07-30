@@ -88,6 +88,20 @@
               "icon": "lucide-file",
               "title": "Arcivescovo"
             }
+          },
+          {
+            "id": "574f2e107f5c502c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clan/Malkavian/Malkavian.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Malkavian"
+            }
           }
         ]
       }
@@ -250,13 +264,26 @@
   },
   "active": "3020cb6d2ea5bfe0",
   "lastOpenFiles": [
+    "Clan/Malkavian/Malkavian.md",
+    "Clan/Sangue Debole/Sangue Debole.md",
+    "Clan/Nosferatu/Nosferatu.md",
+    "Clan/Brujah/Brujah.md",
+    "Clan/LaSombra/LaSombra.md",
+    "Clan/Gangrel/Gangrel.md",
+    "Clan/Tzimisce/Tzimisce.md",
+    "Clan/Tremere/Tremere.md",
+    "Clan/Toreador/Toreador.md",
+    "Clan/Ventrue/Ventrue.md",
+    "Clan/Toreador/npc/Valerie du Maurier.md",
+    "Clan/Tzimisce/npc",
+    "Clan/Tzimisce",
+    "Clan/Toreador/npc/Qadir al-Asmai.md",
     "Ruoli/Arcivescovo.md",
     "Ruoli/Sire.md",
     "Ruoli/Principe.md",
     "Ruoli/Sceriffo.md",
     "Ruoli/Flagello.md",
     "Ruoli/Arpia.md",
-    "Clan/Brujah/Brujah.md",
     "Clan/Brujah/npc/Torque.md",
     "New York.md",
     "Clan/Malkavian/npc/Alycia Aylward.md",
@@ -264,27 +291,14 @@
     "Clan/Sangue Debole/npc/Sire di Anna.md",
     "Clan/Sangue Debole/npc/Robert Larson.md",
     "Clan/Gangrel/npc/Sire di Chiara.md",
-    "Clan/Gangrel/Gangrel.md",
-    "Clan/Sangue Debole/Sangue Debole.md",
     "Gangrel.md",
     "Clan/Sangue Debole/npc",
-    "npc 1/Sire di Chiara.md",
     "npc 1",
-    "Clan/LaSombra/npc/Francisco Domingo de Polonia.md",
     "Clan/Sangue Debole",
-    "Clan/Toreador/npc/Valerie du Maurier.md",
-    "Clan/Toreador/npc/Qadir al-Asmai.md",
-    "Clan/Nosferatu/npc/Kaiser.md",
-    "Clan/Nosferatu/npc/Calebros.md",
-    "Clan/Tremere/npc/Eugenio Estevez.md",
-    "Clan/Tremere/npc/Aisling Sturbridge.md",
-    "Clan/Malkavian/npc/Carter Vanderweyden.md",
     "Ruoli",
     "Clan/Tremere/npc",
     "Clan/Toreador/npc",
     "Clan/Nosferatu/npc",
-    "Clan/Malkavian/npc",
-    "Clan/LaSombra/npc",
-    "Clan/Gangrel/npc"
+    "Clan/Malkavian/npc"
   ]
 }
