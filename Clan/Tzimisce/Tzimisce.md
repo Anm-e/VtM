@@ -4,10 +4,10 @@ Attraverso la loro Disciplina caratteristica, la **Vicissitudine**, sono capaci 
 Completano il loro arsenale con la **Dominazione**, usata per piegare le menti dei loro servitori, e la **Animalità** (Animalism), per estendere il proprio controllo sulla fauna del loro dominio. 
 La loro Maledizione, tuttavia, li lega indissolubilmente alle loro radici: ogni Tzimisce deve riposare circondato da una porzione del proprio "territorio" (spesso terra natia, un luogo d'importanza vitale o persone da lui completamente possedute); in caso contrario, il Sangue rifiuta di rigenerarlo, facendolo deperire notte dopo notte.
 
-| Personaggio | Ruolo | Affiliazione | Stato |
-| ----------- | ----- | ------------ | ----- |
-|             |       |              |       |
-|             |       |              |       |
-|             |       |              |       |
+| Personaggio | Ruolo                           | Affiliazione | Stato  |
+| ----------- | ------------------------------- | ------------ | ------ |
+| Vritra      | Autarki, Dominatore dell'Hudson |              | Attivo |
+|             |                                 |              |        |
+|             |                                 |              |        |
 
 #tzimisce
