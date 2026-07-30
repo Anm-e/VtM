@@ -1,0 +1,79 @@
+{
+  "collapse-filter": false,
+  "search": "-tag:hidden",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:malkavian",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "tag:toreador",
+      "color": {
+        "a": 1,
+        "rgb": 5832514
+      }
+    },
+    {
+      "query": "tag:ventrue",
+      "color": {
+        "a": 1,
+        "rgb": 1318143
+      }
+    },
+    {
+      "query": "tag:tremere",
+      "color": {
+        "a": 1,
+        "rgb": 9699517
+      }
+    },
+    {
+      "query": "tag:nosferatu",
+      "color": {
+        "a": 1,
+        "rgb": 11579568
+      }
+    },
+    {
+      "query": "tag:gangrel",
+      "color": {
+        "a": 1,
+        "rgb": 27410
+      }
+    },
+    {
+      "query": "tag:brujah",
+      "color": {
+        "a": 1,
+        "rgb": 16712965
+      }
+    },
+    {
+      "query": "tag:lasombra",
+      "color": {
+        "a": 1,
+        "rgb": 14589950
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.5087618855792604,
+  "close": true
+}

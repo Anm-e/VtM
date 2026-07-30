@@ -1,0 +1,294 @@
+{
+  "main": {
+    "id": "5e39a586d268b03a",
+    "type": "split",
+    "children": [
+      {
+        "id": "125dac3bb11211e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3020cb6d2ea5bfe0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Vista grafo"
+            }
+          },
+          {
+            "id": "4ff2423c29b11663",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ruoli/Sceriffo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sceriffo"
+            }
+          },
+          {
+            "id": "73bc9c4eb00ddb83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ruoli/Sire.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sire"
+            }
+          },
+          {
+            "id": "28682fc09b707dab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clan/Brujah/npc/Torque.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Torque"
+            }
+          },
+          {
+            "id": "0467b6c6aa70e11b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clan/Brujah/Brujah.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Brujah"
+            }
+          },
+          {
+            "id": "47e02c679d64c8a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ruoli/Flagello.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Flagello"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "acb5206d78bd2fe5",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b3ab0e9367ee486",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "413e020a0776897b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Esplora risorse"
+            }
+          },
+          {
+            "id": "d8e1634b8af5de3f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#nosferatu",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ricerca"
+            }
+          },
+          {
+            "id": "447e6ffcd4112330",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Segnalibri"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 287.5
+  },
+  "right": {
+    "id": "dca89206ad620779",
+    "type": "split",
+    "children": [
+      {
+        "id": "1009e8167db92d5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "535906cb5140a2e4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ruoli/Flagello.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Riferimenti a Flagello"
+            }
+          },
+          {
+            "id": "c00f811b9652a8bf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ruoli/Flagello.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Collegamenti in uscita da Flagello"
+            }
+          },
+          {
+            "id": "7a6da817e216623e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etichette"
+            }
+          },
+          {
+            "id": "7ba4f332f54e9e5b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Tutte le proprietà"
+            }
+          },
+          {
+            "id": "d514fcf6aee04691",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ruoli/Flagello.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Struttura di Flagello"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "bases:Crea nuova Base": false
+    }
+  },
+  "active": "47e02c679d64c8a9",
+  "lastOpenFiles": [
+    "Ruoli/Arpia.md",
+    "Clan/Brujah/Brujah.md",
+    "Ruoli/Sceriffo.md",
+    "Ruoli/Sire.md",
+    "Clan/Brujah/npc/Torque.md",
+    "Ruoli/Principe.md",
+    "Ruoli/Flagello.md",
+    "Ruoli/Arcivescovo.md",
+    "New York.md",
+    "Clan/Malkavian/npc/Alycia Aylward.md",
+    "Clan/Tremere/npc/Ephraim Wainwright.md",
+    "Clan/Sangue Debole/npc/Sire di Anna.md",
+    "Clan/Sangue Debole/npc/Robert Larson.md",
+    "Clan/Gangrel/npc/Sire di Chiara.md",
+    "Clan/Gangrel/Gangrel.md",
+    "Clan/Sangue Debole/Sangue Debole.md",
+    "Gangrel.md",
+    "Clan/Sangue Debole/npc",
+    "npc 1/Sire di Chiara.md",
+    "npc 1",
+    "Clan/LaSombra/npc/Francisco Domingo de Polonia.md",
+    "Clan/Sangue Debole",
+    "Clan/Toreador/npc/Valerie du Maurier.md",
+    "Clan/Toreador/npc/Qadir al-Asmai.md",
+    "Clan/Nosferatu/npc/Kaiser.md",
+    "Clan/Nosferatu/npc/Calebros.md",
+    "Clan/Tremere/npc/Eugenio Estevez.md",
+    "Clan/Tremere/npc/Aisling Sturbridge.md",
+    "Clan/Malkavian/npc/Carter Vanderweyden.md",
+    "Ruoli",
+    "Clan/Tremere/npc",
+    "Clan/Toreador/npc",
+    "Clan/Nosferatu/npc",
+    "Clan/Malkavian/npc",
+    "Clan/LaSombra/npc",
+    "Clan/Gangrel/npc"
+  ]
+}
