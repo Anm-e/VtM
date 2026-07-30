@@ -81,16 +81,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ruoli/Flagello.md",
+                "file": "Ruoli/Arcivescovo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flagello"
+              "title": "Arcivescovo"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,7 +162,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ruoli/Flagello.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +171,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti a Flagello"
+              "title": "Riferimenti"
             }
           },
           {
@@ -182,12 +180,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ruoli/Flagello.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Collegamenti in uscita da Flagello"
+              "title": "Collegamenti in uscita"
             }
           },
           {
@@ -225,13 +222,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ruoli/Flagello.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Struttura di Flagello"
+              "title": "Struttura"
             }
           }
         ]
@@ -252,16 +248,16 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "47e02c679d64c8a9",
+  "active": "3020cb6d2ea5bfe0",
   "lastOpenFiles": [
+    "Ruoli/Arcivescovo.md",
+    "Ruoli/Sire.md",
+    "Ruoli/Principe.md",
+    "Ruoli/Sceriffo.md",
+    "Ruoli/Flagello.md",
     "Ruoli/Arpia.md",
     "Clan/Brujah/Brujah.md",
-    "Ruoli/Sceriffo.md",
-    "Ruoli/Sire.md",
     "Clan/Brujah/npc/Torque.md",
-    "Ruoli/Principe.md",
-    "Ruoli/Flagello.md",
-    "Ruoli/Arcivescovo.md",
     "New York.md",
     "Clan/Malkavian/npc/Alycia Aylward.md",
     "Clan/Tremere/npc/Ephraim Wainwright.md",
